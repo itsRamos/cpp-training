@@ -1,5 +1,5 @@
 ///**********************************************************************************
-/// Solution to the Tower of Hanoi using the STL Vector:
+/// Solution to the Tower of Hanoi using the STL Vector
 /// Author: Erick Ramos
 /// Date: October 24, 2017
 ///***********************************************************************************
